@@ -1,0 +1,201 @@
+[
+  {
+    "id": 1,
+    "categoria": "Documentos",
+    "titulo": "Inscrição no CPF",
+    "palavras_chave": [
+      "cpf",
+      "inscricao no cpf",
+      "tirar cpf",
+      "cadastro de pessoas fisicas"
+    ],
+    "resposta": "A inscrição no CPF é um serviço da Receita Federal. Consulte a página oficial para identificar o procedimento e os documentos exigidos para sua situação.",
+    "documentos": [
+      "Documentos variam conforme idade, nacionalidade e representação legal; consulte a fonte oficial."
+    ],
+    "onde": "Portal de Serviços GOV.BR — Receita Federal",
+    "fonte": "https://www.gov.br/pt-br/servicos/inscrever-no-cpf",
+    "verificado_em": "2026-11-19"
+  },
+  {
+    "id": 2,
+    "categoria": "Documentos",
+    "titulo": "Carteira de Trabalho Digital",
+    "palavras_chave": [
+      "carteira de trabalho",
+      "ctps digital",
+      "carteira digital",
+      "documento de trabalho",
+      "ctps"
+    ],
+    "resposta": "A Carteira de Trabalho Digital permite consultar registros de vínculos trabalhistas. O acesso é feito pelos canais digitais oficiais, usando conta GOV.BR.",
+    "documentos": [
+      "CPF e acesso à conta GOV.BR, conforme orientações oficiais."
+    ],
+    "onde": "Aplicativo Carteira de Trabalho Digital ou portal GOV.BR",
+    "fonte": "https://www.gov.br/pt-br/servicos/obter-a-carteira-de-trabalho",
+    "verificado_em": "2026-11-19"
+  },
+  {
+    "id": 3,
+    "categoria": "Documentos",
+    "titulo": "Criar uma conta GOV.BR",
+    "palavras_chave": [
+      "criar conta gov br",
+      "cadastro gov br",
+      "conta do governo",
+      "acesso gov br"
+    ],
+    "resposta": "A conta GOV.BR permite acessar diversos serviços digitais públicos. Consulte as instruções oficiais para criar sua conta. Não compartilhe senha ou código de segurança.",
+    "documentos": [
+      "Consulte os dados e meios de validação solicitados na página oficial; não os informe neste assistente."
+    ],
+    "onde": "Serviço Criar sua conta GOV.BR",
+    "fonte": "https://www.gov.br/pt-br/servicos/criar-sua-conta-gov.br/",
+    "verificado_em": "2026-11-19"
+  },
+  {
+    "id": 4,
+    "categoria": "Documentos",
+    "titulo": "Primeiro título de eleitor",
+    "palavras_chave": [
+      "primeiro titulo",
+      "tirar titulo",
+      "titulo de eleitor",
+      "titulo eleitoral"
+    ],
+    "resposta": "O primeiro título eleitoral pode ser solicitado pelo Autoatendimento Eleitoral – Título Net, respeitando os requisitos e prazos oficiais.",
+    "documentos": [
+      "Documentos e comprovações variam conforme a situação; confira a lista atualizada no TSE."
+    ],
+    "onde": "Autoatendimento Eleitoral — TSE",
+    "fonte": "https://www.tse.jus.br/servicos-eleitorais/titulo-eleitoral/autoatendimento-eleitoral/autoatendimento-eleitoral-titulo-net",
+    "verificado_em": "2026-11-19"
+  },
+  {
+    "id": 5,
+    "categoria": "Trabalho",
+    "titulo": "Pesquisar vagas no SINE",
+    "palavras_chave": [
+      "vagas de emprego",
+      "sine",
+      "procurar trabalho",
+      "buscar emprego"
+    ],
+    "resposta": "O Sistema Nacional de Emprego (SINE) oferece serviços de intermediação de mão de obra. Você pode consultar vagas pelos canais informados pelo Ministério do Trabalho.",
+    "documentos": [
+      "O cadastro pode solicitar informações ao órgão oficial; não envie dados pessoais aqui."
+    ],
+    "onde": "Portal Emprega Brasil, Carteira de Trabalho Digital ou postos SINE",
+    "fonte": "https://www.gov.br/pt-br/servicos/buscar-emprego-no-sistema-nacional-de-emprego-sine",
+    "verificado_em": "2026-11-19"
+  },
+  {
+    "id": 6,
+    "categoria": "Trabalho",
+    "titulo": "Programa Jovem Aprendiz",
+    "palavras_chave": [
+      "jovem aprendiz",
+      "aprendizagem profissional",
+      "contrato aprendiz",
+      "vaga aprendiz"
+    ],
+    "resposta": "A aprendizagem profissional combina formação teórica com prática profissional e segue regras específicas de contratação. Confira condições de participação e oportunidades nos canais oficiais.",
+    "documentos": [
+      "Requisitos de idade e escolaridade dependem das regras aplicáveis; consulte o MTE."
+    ],
+    "onde": "Ministério do Trabalho e Emprego — Aprendizagem Profissional",
+    "fonte": "https://www.gov.br/trabalho-e-emprego/pt-br/assuntos/aprendizagem-profissional",
+    "verificado_em": "2026-11-19"
+  },
+  {
+    "id": 7,
+    "categoria": "Trabalho",
+    "titulo": "Acessar o Portal Emprega Brasil",
+    "palavras_chave": [
+      "portal emprega brasil",
+      "curriculo emprega brasil",
+      "cadastrar perfil profissional",
+      "perfil de emprego"
+    ],
+    "resposta": "O Portal Emprega Brasil permite registrar informações profissionais e consultar oportunidades compatíveis com o perfil, mediante acesso ao serviço oficial.",
+    "documentos": [
+      "Acesso por conta GOV.BR; dados pessoais somente no portal oficial."
+    ],
+    "onde": "Portal Emprega Brasil — Trabalhador",
+    "fonte": "https://www.gov.br/pt-br/servicos/acessar-portal-emprega-brasil-2013-trabalhador",
+    "verificado_em": "2026-11-19"
+  },
+  {
+    "id": 8,
+    "categoria": "Educação",
+    "titulo": "Inscrição no Enem",
+    "palavras_chave": [
+      "inscricao enem",
+      "fazer enem",
+      "pagina do participante",
+      "exame nacional ensino medio"
+    ],
+    "resposta": "A inscrição e o acompanhamento do Enem são feitos pela Página do Participante, durante os prazos definidos em edital.",
+    "documentos": [
+      "Dados e documentos conforme o edital da edição vigente; consulte o Inep."
+    ],
+    "onde": "Página do Participante — Inep",
+    "fonte": "https://www.gov.br/inep/pt-br/acesso-a-informacao/perguntas-frequentes/exame-nacional-do-ensino-medio-enem/antes-do-exame-justificativa-de-ausencia-inscricoes-e-acompanhamento/como-realizar-a-inscricao-para",
+    "verificado_em": "2026-11-19"
+  },
+  {
+    "id": 9,
+    "categoria": "Educação",
+    "titulo": "Bolsa de estudo pelo Prouni",
+    "palavras_chave": [
+      "prouni",
+      "bolsa universidade",
+      "bolsa faculdade",
+      "programa universidade para todos"
+    ],
+    "resposta": "O Prouni oferece bolsas de estudo em instituições privadas, conforme critérios de participação e seleção do programa. Verifique requisitos e calendário na página oficial.",
+    "documentos": [
+      "Critérios de renda, Enem, escolaridade e documentos dependem do edital; confira o serviço."
+    ],
+    "onde": "Portal GOV.BR — Prouni",
+    "fonte": "https://www.gov.br/pt-br/servicos/obter-bolsa-de-estudo-do-prouni",
+    "verificado_em": "2026-11-19"
+  },
+  {
+    "id": 10,
+    "categoria": "Educação",
+    "titulo": "Cursos gratuitos na plataforma Aprenda Mais",
+    "palavras_chave": [
+      "curso gratuito",
+      "aprender mais",
+      "qualificacao online",
+      "curso online gratis"
+    ],
+    "resposta": "A plataforma Aprenda Mais, do Ministério da Educação, reúne cursos abertos e gratuitos a distância. Confira as turmas e regras de certificação no site oficial.",
+    "documentos": [
+      "Cadastro na plataforma e condições de cada curso; consulte a oferta atual."
+    ],
+    "onde": "Plataforma Aprenda Mais — MEC",
+    "fonte": "https://aprendamais.mec.gov.br/mod/page/view.php?id=100&lang=pt_br",
+    "verificado_em": "2026-11-19"
+  },
+  {
+    "id": 11,
+    "categoria": "Educação",
+    "titulo": "Financiamento estudantil pelo FIES",
+    "palavras_chave": [
+      "fies",
+      "financiamento estudantil",
+      "financiar faculdade",
+      "fundo financiamento estudantil"
+    ],
+    "resposta": "O FIES é um programa federal de financiamento de cursos superiores não gratuitos, sujeito a critérios e calendário de seleção. Consulte os requisitos oficiais antes de se inscrever.",
+    "documentos": [
+      "Verifique edital, documentos e requisitos do processo seletivo vigente."
+    ],
+    "onde": "Serviço GOV.BR — FIES",
+    "fonte": "https://www.gov.br/pt-br/servicos/obter-financiamento-do-fies",
+    "verificado_em": "2026-11-19"
+  }
+]

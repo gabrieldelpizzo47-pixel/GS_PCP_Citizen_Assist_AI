@@ -1,0 +1,62 @@
+[
+  {
+    "data": "2026-11-19T15:20:03",
+    "origem": "pergunta",
+    "pergunta": "como eu faço para tira uma carteira digital?",
+    "id_orientacao": 2,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_segundos": 34.5
+  },
+  {
+    "data": "2026-11-19T15:24:54",
+    "origem": "categoria",
+    "pergunta": "Primeiro título de eleitor",
+    "id_orientacao": 4,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_segundos": 7.7
+  },
+  {
+    "data": "2026-11-19T15:25:43",
+    "origem": "categoria",
+    "pergunta": "Inscrição no CPF",
+    "id_orientacao": 1,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_segundos": 31.0
+  },
+  {
+    "data": "2026-11-19T15:26:31",
+    "origem": "pergunta",
+    "pergunta": "Como comprar uma nave espacial?",
+    "id_orientacao": null,
+    "encontrou": false,
+    "ajudou": null,
+    "tentativas": 1,
+    "tempo_segundos": 33.6
+  },
+  {
+    "data": "2026-11-19T15:27:26",
+    "origem": "categoria",
+    "pergunta": "Programa Jovem Aprendiz",
+    "id_orientacao": 6,
+    "encontrou": true,
+    "ajudou": null,
+    "tentativas": 1,
+    "tempo_segundos": 2.4
+  },
+  {
+    "data": "2026-11-19T15:27:35",
+    "origem": "categoria",
+    "pergunta": "Acessar o Portal Emprega Brasil",
+    "id_orientacao": 7,
+    "encontrou": true,
+    "ajudou": null,
+    "tentativas": 1,
+    "tempo_segundos": 1.7
+  }
+]
